@@ -9,6 +9,7 @@
 <body>
     <h1>Eclipse GitHub 연동 테스트</h1>
     <a href="test">놀러와주세요.</a>
+    <a href="menu1">menu1</a>
     <a href="test">menu2</a>
 
 </body>
